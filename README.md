@@ -1,5 +1,5 @@
 
-# Hello DS - Data Analysis Project
+# ADS - Data Analysis Project
 
 ## Overview
 
@@ -28,7 +28,7 @@ To run this project in an interactive environment via Binder:
 2. Once the environment is loaded, open the `ProductionAnalysis.ipynb` notebook to explore the data analysis and visualizations.
 3. You can interact with the notebook, run the code, and modify the analysis.
 
-[Binder Link (replace with actual link after uploading to GitHub)](YOUR_BINDER_LINK)
+https://mybinder.org/v2/gh/DanielOguntoyinbo/Final-ads-project/HEAD 
 
 ## How to Contribute
 
